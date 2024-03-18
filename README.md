@@ -5,7 +5,7 @@ This is a simple react app that shows two functinality
    the timer decreases when the movement is in the lower half of the viewport
    
 # See it live 
-(https://mouse-movement-tracker.vercel.app/)
+https://mouse-movement-tracker.vercel.app/
 
 ## Prerequisites
 
