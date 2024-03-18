@@ -1,4 +1,9 @@
-# Getting Started with plek-assignment
+#  mouse movement tracker
+This is a simple react app that shows two functinality
+1. changes color of timer every 3rd, 5th and 15th second
+2. shows for how long a mouse is moved in the upper half of viewport.
+   the timer decreases when the movement is in the lower half of the viewport
+
 
 ## Prerequisites
 
@@ -39,15 +44,6 @@ To run a prettier check
 To run a prettier fix
 `npm run prettier-write`
 
-## Solution Guide
-
-#### 1. The output of Question 1 and Question 2 can be seen in the browser console upon starting the application
-
-#### 2. The answer to Question 3 and Question 4 is in the file
-
-`src/utils/ReactContext/ReactContext.txt`
-
-#### 3. The output of Question 5 and Question 6 can directly be seen on the browser.Upon click of each button the relevant component is rendered.
 
 ### Contributors
 
